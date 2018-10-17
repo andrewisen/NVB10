@@ -1,4 +1,4 @@
-# nvb10
+# NVB10.SE - Rudbecksskolan, Örebro
 NVB10
 Hemsidan “www.nvb10.se” var en hemsida för klass NVB10 på Rudbecksskolan (Rudbecksgymnasiet), Örebro.<br>
 Sidan var verksam mellan åren 2011 – 2013 och ägdes, finansierades och administrerades utav mig (André Wisén).<br><br>
