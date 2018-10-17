@@ -1,10 +1,11 @@
 mumstilllunch
 uploads
-wp-content/themes/smart-mag
+#wp-content/themes/smart-mag
 
 # ignore everything in the root except the "wp-content" directory.
 /*
 !wp-content/
+wp-content/uploads/
 
 # ignore all files starting with .
 .*
@@ -70,4 +71,4 @@ wp-content/plugins/akismet/
 #wp-content/themes/smart-mag*/
 
 # ignore node/grunt dependency directories
-node_modules/
+#node_modules/
